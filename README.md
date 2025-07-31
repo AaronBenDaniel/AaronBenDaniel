@@ -4,7 +4,7 @@
 Computer Science Enjoyer
 </b></h1>
 <h3>
-I occasionally like to build things
+I occasionally like to build things.
 </h3>
 
 Mechanical Engineering undergrad at Syracuse University.
@@ -22,9 +22,11 @@ Graduate of the [Robotics & Engineering shop](https://mvthsengineering.com) at M
 Founding member of Sunk Robotics.
 
 <a href="https://sunkrobotics.com/">
-    <img src="https://raw.githubusercontent.com/AaronBenDaniel/AaronBenDaniel/refs/heads/main/Sunkrobotics.png" style="height: 8em;border-radius: 2em;">
+    <img src="https://raw.githubusercontent.com/AaronBenDaniel/AaronBenDaniel/refs/heads/main/Sunkrobotics.png" style="height: 8em;">
 </a>
 
-I keep a blog of my (Mechanical Engineering) work at [abendaniel.top](https://abendaniel.top)
+I keep a blog of my (engineering) work at [abendaniel.top](https://abendaniel.top)
 
-Most of my projects are in <a href="https://www.arduino.cc/"><img src="https://custom-icon-badges.demolab.com/badge/Arduino-blue.svg?logo=arduino-logo&color=444444" style="height=1em;"></a> or <a href="https://www.python.org/"><img src="https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python-logo&color=444444" style="height=1em;"></a>.
+I host a website detailing how to download stories from [Wattpad](https://wattpad.com) and [wpd.abendaniel.top](https://wpd.abendaniel.top)
+
+Most of my projects are written in <a href="https://www.arduino.cc/"><img src="https://custom-icon-badges.demolab.com/badge/Arduino-blue.svg?logo=arduino-logo&color=444444" style="height=1em;"></a> or <a href="https://www.python.org/"><img src="https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python-logo&color=444444" style="height=1em;"></a>.
