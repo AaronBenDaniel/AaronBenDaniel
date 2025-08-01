@@ -22,7 +22,7 @@ Graduate of the [Robotics & Engineering shop](https://mvthsengineering.com) at M
 Founding member of Sunk Robotics.
 
 <a href="https://sunkrobotics.com/">
-    <img src="https://raw.githubusercontent.com/AaronBenDaniel/AaronBenDaniel/refs/heads/main/SunkRobotics.png" style="height: 8em;">
+    <img src="https://raw.githubusercontent.com/AaronBenDaniel/AaronBenDaniel/refs/heads/main/SunkRobotics.png" style="height: 8em;background-color: #0d1117">
 </a>
 
 I keep a blog of my (engineering) work at [abendaniel.top](https://abendaniel.top)
