@@ -25,8 +25,8 @@ Founding member of Sunk Robotics.
     <img src="https://raw.githubusercontent.com/AaronBenDaniel/AaronBenDaniel/refs/heads/main/SunkRobotics.png" style="height: 8em;background-color: #0d1117">
 </a>
 
-I keep a blog of my (engineering) work at [abendaniel.top](https://abendaniel.top)
+I keep a blog of my (engineering) work at [abendaniel.top](https://abendaniel.top).
 
-I host a website detailing how to download stories from [Wattpad](https://wattpad.com) at [wpd.abendaniel.top](https://wpd.abendaniel.top)
+I host a website detailing how to download stories from [Wattpad](https://wattpad.com) at [wpd.abendaniel.top](https://wpd.abendaniel.top).
 
 Most of my projects are written in <a href="https://www.arduino.cc/"><img src="https://custom-icon-badges.demolab.com/badge/Arduino-blue.svg?logo=arduino-logo&color=444444" style="height=1em;"></a> or <a href="https://www.python.org/"><img src="https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python-logo&color=444444" style="height=1em;"></a>.
